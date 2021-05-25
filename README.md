@@ -26,7 +26,7 @@ XAI method can be replaced by other XAI methods listed as follows:
     IntegratedGradients,
     LayerConductance,
     NeuronConductance,
-    NoiseTunnel,
+    NoiseTunnel
 
 which will produce explained heatmap and original image accordingly
 
