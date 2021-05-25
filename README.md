@@ -1,4 +1,4 @@
-# XAI pytorch framework with captum
+# XAI pytorch framework implementation with captum
 XAI framework with captum(https://captum.ai/): model interpretation with pytorch
 example codes contains CIFAR-10 downloaded from online, which can be replaced.
 
