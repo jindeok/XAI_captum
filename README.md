@@ -5,7 +5,7 @@ example codes with CIFAR-10 dataset, which can be replaced by other dataset.
 
 
 # Dependancy
-* captum ``conda install captum -c pytorch``
+* captum  : ``conda install captum -c pytorch``
 * torch / torchvision
 * numpy
 * matplotlib
