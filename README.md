@@ -6,7 +6,7 @@ example codes contains CIFAR-10 downloaded from online, which can be replaced.
 
 # Dependancy
 * captum ``conda install captum -c pytorch``
-* torch
+* torch / torchvision
 * numpy
 * matplotlib
 
