@@ -4,8 +4,6 @@ example codes contains CIFAR-10 downloaded from online, which can be replaced.
 
 
 
-
-
 # Dependancy
 * captum ``conda install captum -c pytorch``
 * torch
@@ -14,14 +12,21 @@ example codes contains CIFAR-10 downloaded from online, which can be replaced.
 
 
 
-
-
 # Running
 
-run main.py in the Lottery_Prediction folder
+run main.py 
 or in terminal,
 
 ``python main.py --XAI_method 'IntegratedGradient' ``  
+
+XAI method can be replaced by other XAI methods listed as follows:
+    GradientShap,
+    DeepLift,
+    DeepLiftShap,
+    IntegratedGradients,
+    LayerConductance,
+    NeuronConductance,
+    NoiseTunnel,
 
 which will produce explained heatmap and original image accordingly
 
