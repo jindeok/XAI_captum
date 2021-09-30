@@ -1,5 +1,5 @@
 # XAI pytorch framework implementation with captum
-XAI framework with captum(https://captum.ai/): model interpretation with pytorch
+XAI framework implementation with captum(https://captum.ai/): model interpretation with pytorch
 example codes with CIFAR-10 dataset, which can be replaced by other dataset.
 
 
