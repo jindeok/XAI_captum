@@ -24,7 +24,7 @@ from captum.attr import (
     LRP,
 )
 
-
+# Arguments configurations
 def parse_args():
     '''
     Parses the arguments.
